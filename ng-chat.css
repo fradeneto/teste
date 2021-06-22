@@ -1,3 +1,15 @@
 #ng-chat input {
   border-radius: 10px;
 }
+
+#ng-chat {
+  background-color: red;
+}
+
+#ng-chat .ng-chat-title {
+  font-size: 3rem
+}
+
+.ng-chat-title {
+  font-size: 3rem
+}
