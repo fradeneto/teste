@@ -1,0 +1,9 @@
+#ng-chat-search_friend {
+    display: block;
+    background-color: red;
+    padding: 7px 10px;
+    margin: 10px auto 0;
+    width: calc(100% - 20px);
+    font-size: .9em;
+    -webkit-appearance: searchfield;
+}
